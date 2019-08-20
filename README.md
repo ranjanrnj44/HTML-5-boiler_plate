@@ -3,7 +3,7 @@
 	<head>
 		<title>Home</title>
 		<meta charset="UTF-8">
-		<meta name="description" content="Simple page">
+		<meta name="description" content="Project">
 		<meta name="keywords" content="HTML,CSS">
 		<meta name="author" content="Ranjan">
 	</head>
