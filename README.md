@@ -3,9 +3,16 @@
 	<head>
 		<title>Home</title>
 		<meta charset="UTF-8">
-		<meta name="description" content="Project">
+		<meta name="description" content="Simple page">
 		<meta name="keywords" content="HTML,CSS">
 		<meta name="author" content="Ranjan">
+
+		<!--fontawesome START-->
+		<!--fontawesome END-->
+
+		<!--css and script links START-->
+		<!--css and script links END-->
+
 	</head>
 
 	<body>
